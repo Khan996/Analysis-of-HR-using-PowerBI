@@ -1,1 +1,1 @@
-# Anlysis-of-HR-using-PowerBI
+# Analysis-of-HR-using-PowerBI
